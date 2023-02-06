@@ -118,3 +118,118 @@ body img{
 }
     
 /* /SECOND SECTION */
+
+/* THIRD SECTION */
+
+.third-sect-card{
+    min-height: 300px;
+    background-color: #9792e4;
+    margin-bottom: 20px;
+    border-radius: 20px; 
+}
+
+
+/* /THIRD SECTION */
+
+/* FOURTH SECTION */
+.fourth-section{
+    background-color: #9792e4;
+}
+
+.fourth-section button{
+    padding: 10px 30px;
+    background-color: #9792e4;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+.fourth-sect-card{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    background-color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+/* /FOURTH SECTION */
+
+/* FIFTH SECTION */
+
+.fifth-section .first-part *{
+    margin-bottom: 40px;
+}
+
+.fifth-section .first-part p{
+    line-height: 2em;
+}
+
+
+.fifth-section .second-part h2{
+    margin: 30px 0 30px 0;
+}
+
+#about-us-image{
+    width: 50%;
+    position: relative;
+}
+
+#about-us-image img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+
+
+#about-us-mark{
+   position: absolute;
+   top: 0;
+   right: 0;
+   font-size: 3em;
+   color: #9792e4;
+}
+
+/* /FIFTH SECTION */
+
+/* CREDITS ONE */
+
+.credits-one{
+    text-align: center;
+    
+    background-color: #9792e4;
+    color: white;
+}
+
+.credits-one .centered-container{
+    padding: 30px 0 30px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-bottom: 0;
+}
+
+.credits-one i{
+    font-size: .5em;
+    
+}
+
+/* /CREDITS ONE */
+
+/* CREDITS TWO */
+
+.credits-two{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+}
+
+.credits-two .centered-container{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.credits-two .centered-container *{
+    padding: 30px 0 30px 0;
+}
